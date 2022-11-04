@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    background-size: cover;
+    /* border: 5px solid red; */
+}
+header{
+    background-color: white;
+    text-align: center;
+    margin: 5%;
+    font-size: 26px;
+    /* border: 5px solid red; */
+
+}
+#title{
+    font-family:cursive;
+    font-weight: bold;
+}
+nav a{
+    color: black;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+    /* border: 5px solid red */
+}
+#hello{
+    color: rgb(171, 171, 171);
+    text-align: center;
+    border: 3px solid rgb(171, 171, 171);
+    padding: 50px;
+    margin: 50px;
+    font-size: 13px;
+}
+#subhead1{
+    text-align: center;
+    font-weight: 100;
+    /* text-decoration:underline; */
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(178, 34, 34);
+    font-size: 42px;
+    /* border: 5px solid red; */
+}
+#para1{
+    text-align:left;
+    color: rgb(171, 171, 171);
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    /* border: 5px solid red; */
+    margin: 10% 14% 0% 44%;
+    line-height: 20px;
+    /* margin-top: 10%;
+    margin-right: 20%;
+    margin-left: 45%; */
+
+}
+#para1 p{
+    margin-top: 5%;
+    /* border: 5px solid red; */
+}
+#subhead2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+.a{
+    font-size: 20px;
+    margin-left: 20%;
+}
+ #ed{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    color: rgb(171, 171, 171);
+    font-size: 15px;
+    margin-left: 20%;
+ }
+ .b{
+    font-weight: bold;
+ }
+.c{
+    margin-left: 5%;
+    text-decoration: none;
+    list-style-type: circle;
+    /* font-size: 20px; */
+}
+form{
+    text-align: center;
+
+}
+footer{
+    text-align: center;
+    margin-top: 10%;
+    /* font-size: 15px; */
+    /* border: 5px solid red; */
+}
+footer a{
+    font-weight: bold;
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+    margin: 5%;
+    /* border: 5px solid blueviolet; */
+}
+footer p{
+    color: rgb(178, 34, 34);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    margin: 3% 30% 3% 10% ;
+    /* border: 5px solid red; */
+}
